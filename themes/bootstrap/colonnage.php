@@ -1,8 +1,11 @@
 <?php $this->inc('elements/header.php'); ?>
 		
-		   
+		   <!-- Zone 2 contient 3 colonne de 4 !-->
     
 		<div class="row">
+		
+		                 <!-- Colonne1 de 4 !-->
+						 
 		    <div class="span4">
 		        
 				<div class="hero-unit">
@@ -13,6 +16,8 @@
 				</div>
 		
 			</div>
+						 <!-- Colonne2 de 4 !-->
+						
 			 <div class="span4">
 		       <div class="hero-unit">
 				 <?php
@@ -21,6 +26,7 @@
 				  ?>
 				</div>
 			</div>
+						 <!-- Colonne3 de 4 !-->
 			 <div class="span4">
 		        <div class="hero-unit">
 				 <?php
@@ -30,7 +36,9 @@
 				</div>
 			</div>
 		</div>
+							<!-- Zone 2 contient 1 colonne de 12 !-->
 		<div class="row">
+						 <!-- Colonne bas de 12 !-->
 		    <div class="span12">
 		       <div class="hero-unit">
 				 <?php
